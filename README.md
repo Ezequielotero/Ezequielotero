@@ -1,4 +1,6 @@
 ### Hi there 👋
+![b949c86a570df07a7440abe39405834c](https://user-images.githubusercontent.com/75461873/122798147-a334b580-d296-11eb-8a85-dead111fe895.gif)
+
 
 
 Hi ! my name is Ezequiel , i'm a young Full Stack javascript developer with frontend orientation who is looking for new challenges, with strong knowledge in technologies like React, Redux, HTML, CSS, LESS, jQuery, Node.js, Express.js, PostgreSQL and Sequelize.
